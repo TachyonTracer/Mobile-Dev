@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046185856092",
+    "project_id": "oauth-522bc",
+    "storage_bucket": "oauth-522bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046185856092:android:dde930a15590aa6b7e6a99",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0RXKoqTfg48YKdm5mon3f8mkWzOdK_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
